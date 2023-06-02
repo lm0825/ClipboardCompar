@@ -4,7 +4,7 @@
 
 ## 效果图
 
-![image-20230531165110191](C:\Users\liuming\AppData\Roaming\Typora\typora-user-images\image-20230531165110191.png)
+![image-20230531165110191](https://gitee.com/liu-ming0825/image/raw/master/202306021540409.png)
 
 ## 依赖
 
